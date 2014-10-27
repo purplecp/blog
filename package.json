@@ -1,0 +1,23 @@
+{
+    "name": "blog",
+    "version": "0.0.1",
+    "date": "2014 - 10 - 27",
+    "private": true,
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "express": "~4.9.0",
+        "body-parser": "~1.8.1",
+        "mongoose": "3.8.17"
+    },
+    "devDependencies": {
+        "grunt": "~0.4.1",
+        "grunt-contrib-coffee": "~0.7.0",
+        "grunt-exec": "~0.4.1",
+        "grunt-contrib-copy": "0.4.1",
+        "grunt-contrib-watch": "0.4.4"
+    }
+
+
+}
